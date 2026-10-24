@@ -1,3 +1,10 @@
+# 1.0.0 (2026-10-24)
+
+
+### Features
+
+* **nova-launcher:** `unlock-prime` patch ([e8b87f3](https://github.com/s1204IT/revanced-patches/commit/e8b87f38a0e77818d697e50715c8b76bc2dd883a))
+
 ## [1.0.4](https://github.com/ReVanced/revanced-patches-template/compare/v1.0.3...v1.0.4) (2024-11-05)
 
 ## [1.0.4-dev.2](https://github.com/ReVanced/revanced-patches-template/compare/v1.0.4-dev.1...v1.0.4-dev.2) (2024-11-05)
